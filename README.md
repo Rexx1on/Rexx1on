@@ -3,4 +3,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,py,vscode,github,arduino)](https://skillicons.dev)
 
 </div>
-naber moruk
+<h1 align="center">NABER MÜDÜR</h1>
