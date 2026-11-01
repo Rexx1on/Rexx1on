@@ -3,4 +3,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,py,vscode,github,arduino)](https://skillicons.dev)
 
 </div>
-<h1 align="center">NABER MÜDÜR</h1>
+<h1 align="center">DEVRİM AR</h1>
